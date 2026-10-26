@@ -1,0 +1,5 @@
+name: "newsreel_scripting"
+title: "AIニュース動画の脚本化"
+description: "Turn selected topics in the AI news sheet into finished production.json scripts, with readings registered and the topic queued for video generation."
+category: "Work and knowledge"
+include_in_prompt: true
